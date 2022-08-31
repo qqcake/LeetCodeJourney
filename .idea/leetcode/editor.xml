@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/P2_.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/doc/content/P2_.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/P2_.kt" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/P3_.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/doc/content/P3_.md" />
+              <option name="frontendQuestionId" value="leetcode.com3" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/P3_.kt" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/[2]Add Two Numbers.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/doc/content/P2_.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/com/bigcake/leetcodejourney/leetcode/editor/en/P2_.kt" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P167_TwoSumIiInputArrayIsSorted.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/P167_TwoSumIiInputArrayIsSorted.md" />
+              <option name="frontendQuestionId" value="leetcode.com167" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P167_TwoSumIiInputArrayIsSorted.kt" />
+              <option name="titleSlug" value="two-sum-ii-input-array-is-sorted" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P1_TwoSum.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/P1_TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P1_TwoSum.kt" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P5_LongestPalindromicSubstring.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/P5_LongestPalindromicSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.com5" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P5_LongestPalindromicSubstring.kt" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P6_ZigzagConversion.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/P6_ZigzagConversion.md" />
+              <option name="frontendQuestionId" value="leetcode.com6" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P6_ZigzagConversion.kt" />
+              <option name="titleSlug" value="zigzag-conversion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P7.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/P7.md" />
+              <option name="frontendQuestionId" value="leetcode.com7" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/P7.kt" />
+              <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/StringToIntegerAtoi.kt">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/doc/content/StringToIntegerAtoi.md" />
+              <option name="frontendQuestionId" value="leetcode.com8" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/app/src/main/java/leetcode/editor/en/StringToIntegerAtoi.kt" />
+              <option name="titleSlug" value="string-to-integer-atoi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
